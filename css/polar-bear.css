@@ -1,9 +1,9 @@
 body {
   font-family: Courier New;
-  /* background-color: silver; */
+  background-color: silver;
   text-align: center;
 }
 
 #title-h1{
-  background-image: url(../img/zoo-banner.jpg);
+  background-image: url("../img/zoo-banner.jpg");
 }
